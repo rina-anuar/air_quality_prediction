@@ -1,0 +1,1 @@
+https://open-meteo.com/en/docs?latitude=43.25&longitude=76.9167  site where we get weather datas  
